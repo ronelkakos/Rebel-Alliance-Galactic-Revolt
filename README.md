@@ -1,5 +1,6 @@
 ## Rebel Alliance: Galactic Revolt
 (May 2024 - June 2024)
+
 Rebel Alliance: Galactic Revolt	is a thrilling space shooter that takes players back to the the golden era of arcade games. This game, takes its design inspiration from old-school videogames like Galaga and it delivers a nostalgic yet fresh experience. In this game while facing waves of increasingly difficult and proficient competitors, players can gather power-ups to strengthen their weaponry and defenses.
 
 ## Features
